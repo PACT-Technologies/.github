@@ -38,13 +38,5 @@ Open an issue or contact us to get involved!
 
 ---
 
-## 📫 Contact
-📧 **info@pacttechnologies.com**  
-🌍 Website: *Coming Soon*  
-
----
 
 © 2025 **PACT Technologies LLC**. All rights reserved.  
-
-
-© 2025 PACT Technologies LLC. All rights reserved.
