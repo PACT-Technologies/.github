@@ -39,4 +39,4 @@ Open an issue or contact us to get involved!
 ---
 
 
-© 2025 **PACT Technologies LLC**. All rights reserved.  
+© 2025 **ARKA Systems LLC**. All rights reserved. This entire repository is owned by ARKA Systems LLC.
