@@ -1,4 +1,4 @@
-# 🌐 PACT Technologies LLC
+# 🌐 ARKA Systems LLC
 
 ![Next-Gen Software](https://img.shields.io/badge/Next--Gen-Software-blue?style=for-the-badge) 
 ![AI + Blockchain](https://img.shields.io/badge/AI%20%2B%20Blockchain-Innovation-purple?style=for-the-badge) 
@@ -8,7 +8,7 @@
 
 ### 🚀 Next-Generation Software for Enterprises, Governments, and Businesses
 
-**PACT Technologies LLC** develops cutting-edge software solutions that blend **AI, blockchain, and automation** to solve real-world challenges at scale.  
+**ARKA Systems LLC** develops cutting-edge software solutions that blend **AI, blockchain, and automation** to solve real-world challenges at scale.  
 From enterprise-grade compliance platforms to commercial tools like **SEO Assist**, we design systems that empower organizations to operate with greater **efficiency, security, and transparency**.  
 
 ---
